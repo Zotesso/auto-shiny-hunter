@@ -1,0 +1,44 @@
+# iniciando jogo
+5 - start
+1 - start
+
+# continuar 
+2 - x
+
+# abrir mala
+3 - x
+4 - x
+
+# selecionar chimchar
+1 - right
+0.5 - x
+0.5 - x
+
+# falas professor
+3 - x
+1 - x
+1 - x
+1 - x
+1 - x 
+2 - x
+2 - x
+1 - x
+
+# professor se retira
+4 - x
+1 - x
+
+# aluno se retira
+4 - x
+1 - x
+
+# rival se aproxima
+5 - x
+2 - x
+0.5 - x
+1 - x
+1 - x
+1 - x
+
+# entra em batalha e verifica cor
+8 - x
